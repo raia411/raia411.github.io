@@ -9,7 +9,10 @@ Here is a link [[./emacs.org][Emacs configuration]].
 ** Biking
 ** Camping
 * Mathematics
+** Approach
+#+INCLUDE: "./mathematics/approach.org"
 ** Research
-** Experiments
+#+INCLUDE: "./mathematics/thesis.org"
+** Experiments and Tinkering
 * Writing
 ** Immigration & Intergration
