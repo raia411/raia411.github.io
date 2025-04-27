@@ -19,7 +19,7 @@
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc t                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
-	     :css "~/format/style.css"  ;; Custom
+	     :css "~/format/styles.css"  ;; Custom
              :time-stamp-file nil)))    ;; Don't include time stamp in file
 
 ;; Generate the site output
