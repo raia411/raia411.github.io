@@ -2,9 +2,10 @@
 This is a site I'm creating to share my learning experiences
 
 Here is a link [[./emacs.org][Emacs configuration]].
-* Athletics
+* Athletics and Sports
 ** Running
 ** Weight  Training
+** Professional Sports
 * Outdoors
 ** Biking
 ** Camping
@@ -14,5 +15,12 @@ Here is a link [[./emacs.org][Emacs configuration]].
 ** Research
 #+INCLUDE: "./mathematics/thesis.org"
 ** Experiments and Tinkering
-* Writing
+* Travels
+#+INCLUDE: "./traval/experiences.org"
+* Things I own
+Here I'd like to review products and services I own and use to help others make informed decsions when making purchases. Rest assured, none of the links here are connected to any affiliate marketing system.
+
+#+INCLUDE: "items.org"
+
+* Opinions
 ** Immigration & Intergration
