@@ -1,0 +1,15 @@
+* Overview
+This is a site I'm creating to share my learning experiences
+
+Here is a link [[./emacs.org][Emacs configuration]].
+* Athletics
+** Running
+** Weight  Training
+* Outdoors
+** Biking
+** Camping
+* Mathematics
+** Research
+** Experiments
+* Writing
+** Immigration & Intergration
